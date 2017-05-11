@@ -45,6 +45,8 @@
 
 ## 开始阅读
 
+`cd the_way_to_go_ZH_CN && npm run read`
+
 [前言](./eBook/preface.md)
 
 想读书的人，不会找不到 [目录](eBook/directory.md) :)
